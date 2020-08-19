@@ -1,5 +1,7 @@
 # fSEIR_simulator
 SEIR epidemic spread simulator
+https://medium.com/@jp.paiement13/predicting-covid-19-spread-via-airline-connections-fseir-and-testing-stemming-scenarios-75ac99dd3f97
+
 
 Acknowledgements
 This python workflow is based on the model developed by Nicholas A. Yager and Matthew Taylor in 2014 (https://github.com/nicholasyager/airport-disease-modeling).
